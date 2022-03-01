@@ -10,7 +10,9 @@
 
 :computer: Technologist degree in System Analysis and Development at [IFSP](https://www.ifsp.edu.br/), São Carlos, SP, Brazil
 
-:triangular_ruler: IDE used: [Visual Studio Code](https://code.visualstudio.com/)
+:triangular_ruler: IDE used: [Visual Studio Code](https://code.visualstudio.com/) and [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
+
+:smile_cat: Web Server and Servlet Container: [Apache Tomcat](https://tomcat.apache.org/)
 
 :calendar: 1st semester 2022
 
