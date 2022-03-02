@@ -1,5 +1,10 @@
 package com.souza.charles.activity03;
-
+/*
+Subject title: Programming for the Web III
+Lecturer: Prof. Dr. Fernando Vernal Salina
+Example adapted by: Charles Fernandes de Souza
+Date: February 24, 2022
+*/
 import java.io.*;
 import java.util.ArrayList;
 import javax.servlet.ServletContext;
