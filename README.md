@@ -21,6 +21,7 @@
 - Class 01: [Website HTML, CSS3 and JavaScript](https://github.com/souzafcharles/Programming-for-the-Web-III/tree/master/Activity01)
 - Class 02: [Servlets - Part I](https://github.com/souzafcharles/Programming-for-the-Web-III/tree/master/Activity02)
 - Class 03: [Servlets - Part II](https://github.com/souzafcharles/Programming-for-the-Web-III/tree/master/Activity03)
+- Class 04: [Servlets - Part III](https://github.com/souzafcharles/Programming-for-the-Web-III/tree/master/Activity04)
 
 
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
