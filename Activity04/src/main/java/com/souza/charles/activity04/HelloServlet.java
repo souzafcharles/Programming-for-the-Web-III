@@ -1,5 +1,10 @@
 package com.souza.charles.activity04;
-
+/*
+Subject title: Programming for the Web III
+Lecturer: Prof. Dr. Fernando Vernal Salina
+Example adapted by: Charles Fernandes de Souza
+Date: March 10, 2022
+*/
 import java.io.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
