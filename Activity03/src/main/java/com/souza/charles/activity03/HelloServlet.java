@@ -67,7 +67,6 @@ public class HelloServlet extends HttpServlet {
         out.print("<a href=\".\">Previous</a>");
         out.println("</body></html>");
     }
-
     public void destroy() {
         System.out.println("Function Destroy call!");
     }
