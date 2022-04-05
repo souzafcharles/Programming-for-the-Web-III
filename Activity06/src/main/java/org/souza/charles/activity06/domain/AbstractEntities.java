@@ -1,7 +1,10 @@
 package org.souza.charles.activity06.domain;
-
-
-
+/*
+Subject title: Programming for the Web III
+Lecturer: Prof. Dr. Fernando Vernal Salina
+Example adapted by: Charles Fernandes de Souza
+Date: March 31, 2022
+*/
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
