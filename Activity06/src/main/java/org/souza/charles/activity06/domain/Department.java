@@ -2,6 +2,7 @@ package org.souza.charles.activity06.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import java.util.List;
 
@@ -12,6 +13,7 @@ public class Department extends AbstractEntities<Long>{
     @Column(name = "name", nullable = false, unique = true, length = 60)
     private String name;
 
+    @OneToMany(mappedBy = "department")
     private List<Employee> employeeList;
 
     public String getName() {
