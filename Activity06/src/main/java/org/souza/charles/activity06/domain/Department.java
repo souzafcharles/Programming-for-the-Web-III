@@ -13,7 +13,7 @@ public class Department extends AbstractEntities<Long>{
     @Column(name = "name", nullable = false, unique = true, length = 60)
     private String name;
 
-    @OneToMany(mappedBy = "department")
+   // @OneToMany(mappedBy = "department")
     private List<Employee> employeeList;
 
     public String getName() {
