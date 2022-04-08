@@ -24,7 +24,7 @@
 - Class 04: [Servlets - Part III](https://github.com/souzafcharles/Programming-for-the-Web-III/tree/master/Activity04)
 - Class 05: [Servlets - Part IV](https://github.com/souzafcharles/Programming-for-the-Web-III/tree/master/Activity05)
 - Class 06: [SpringBoot - Part I](https://github.com/souzafcharles/Programming-for-the-Web-III/tree/master/Activity06)
-- 
+- Class 07: [SpringBoot - Part II](https://github.com/souzafcharles/Programming-for-the-Web-III/tree/master/Activity07)
 
 
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
