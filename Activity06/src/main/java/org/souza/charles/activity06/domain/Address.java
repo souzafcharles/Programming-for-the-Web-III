@@ -1,12 +1,24 @@
 package org.souza.charles.activity06.domain;
 
+import javax.persistence.Column;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+
 public class Address {
+    @Column(nullable = false)
     private String street;
+    @Column(nullable = false)
     private String district;
+    @Column(nullable = false)
     private String city;
+    @Column(nullable = false, length = 2)
+    @Enumerated(EnumType.STRING)
     private UF uf;
+    @Column(nullable = false, length = 9)
     private String zipcode;
+    @Column(nullable = false, length = 5)
     private Integer number;
+
     private String complement;
 
     public String getStreet() {
