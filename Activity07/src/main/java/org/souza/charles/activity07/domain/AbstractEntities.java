@@ -3,7 +3,7 @@ package org.souza.charles.activity07.domain;
 Subject title: Programming for the Web III
 Lecturer: Prof. Dr. Fernando Vernal Salina
 Example adapted by: Charles Fernandes de Souza
-Date: March 31, 2022
+Date: March 31, 2022.
 */
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
